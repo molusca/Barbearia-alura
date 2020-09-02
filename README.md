@@ -1,6 +1,6 @@
 ## 💈🪒 Barbearia Alura 🪒💈
 
-[Read in Portuguese | Leia em Português](https://github.com/molusca/Front-End/blob/master/barbearia_alura/README.pt.md)
+[Read in Portuguese | Leia em Português](README.pt.md)
 
 This project was made during [HTML and CSS courses](https://cursos.alura.com.br/formacao-html-e-css) by [Alura Cursos](https://www.alura.com.br/) , at my first contacts with these technologies!
 
